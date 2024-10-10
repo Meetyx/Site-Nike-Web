@@ -1,0 +1,12 @@
+header{
+    background-color: gray;
+    height: 5vh;
+}
+
+main{
+    background-color: white;
+}
+section{
+    background-color: darkgray;
+    border: solid;
+}
